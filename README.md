@@ -98,7 +98,7 @@
   <a href="https://www.twitter.com/aemaddin">
     <img alt="Twitter" src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="tel:+201011441444">
+  <a href="https://wa.me/201011441444">
     <img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="mailto:aemaddin@gmail.com">
