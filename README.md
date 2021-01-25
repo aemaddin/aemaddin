@@ -99,9 +99,9 @@
     <img alt="Twitter" src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="tel:+201011441444">
-    <img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="mailto:aemaddin@gmail.com">
-    <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
